@@ -45,6 +45,12 @@ function Food({name ,picture}) {
     <img src = {picture} alt="food" />
   </div>;
 }
+//와....~~~~~~~~~~~~ 개 쩐 다 ~~~~~~~~
+//이조은 왔다감
+//정재희 왔다감
+//김진보라 왔다감
+//박수인 왔다감
+//최무헌 왔다감
 
 Food.propTypes = {
   name: PropTypes.string.isRequired,
